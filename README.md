@@ -20,3 +20,6 @@ Once the server is running, you can test the navigation by clicking these links 
 - Go to Previous: http://localhost:[port]/item/prev
 
 - Jump to specific Index (e.g., Index 2): http://localhost:[port]/item/2 (You can change 2 to 0, 1, 3, etc.)
+
+
+Web project from Frédéric JALAGUIER
