@@ -1,14 +1,6 @@
 # Toronto Sports API
 
-Welcome to our Backend Project! This is a simple **REST API** built with Node.js and Express. It serves data about the major sports teams in Toronto and handles navigation logic.
-
-## Technologies
-
-* **Node.js**
-* **Express.js**
-* **CORS** (to allow frontend connections)
-
----
+Welcome to our Backend Project ! This is a simple **REST API** built with Node.js and Express. It serves data about the major sports teams in Toronto and handles navigation logic.
 
 ## Instal
 
